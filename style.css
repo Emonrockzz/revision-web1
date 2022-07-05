@@ -37,3 +37,52 @@ section{
     width: 50%;
     padding-left: 25%;
 }
+.recipies{
+    text-align: center;
+}
+.recipies p{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.duble-pera{ 
+    padding: 4% 6%;
+    border-radius: 10px;
+}
+.half-width2{
+    width: 50%;
+    padding: 20px;
+    margin:10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.half-width2 h1{
+    margin: 0px;
+    padding: 0px;
+
+}
+.half-width2 p{
+    margin: 0px;
+    padding:0px;
+}
+.bottom-img{
+    width: 100%;
+}
+.bottom-social{
+    display: flex;
+    padding-left: 150px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.jaka-naka{
+    text-align: center;
+    padding:5%;
+    border: 20px;
+    
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.945);
+    font-weight: 700;
+    padding: 10px;
+}
